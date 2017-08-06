@@ -1,0 +1,17 @@
+.header{
+	background-color: #3498db;
+	color: #fff;
+	padding: 10px;
+	border-bottom: 5px solid #34495e;
+}
+
+.options{
+	background-color: #ecf0f1;
+	padding: 10px;
+}
+.font{
+	background-color: #eee;
+	padding: 5px;
+	margin-top: 10px;
+
+}
