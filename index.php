@@ -28,7 +28,7 @@
      	}
      }
    
-		$dir = "C:/wamp/www/ArabicFont/Font";
+		$dir = "Font";
 		$fonts = scandir($dir , 1);
 		foreach ($fonts as $font) {	 ?>
 	
